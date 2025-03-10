@@ -1,0 +1,1 @@
+bool exist_letter(char guess, std::string secret_word);

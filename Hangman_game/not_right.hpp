@@ -1,0 +1,1 @@
+bool not_right(std::string &secret_word, const std::map<char, bool> &guessed);
